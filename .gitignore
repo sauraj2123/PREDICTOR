@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data / models
+data/*.csv
+models/*.h5
+models/*.keras
+
+# OS
+.DS_Store
