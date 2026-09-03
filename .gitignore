@@ -224,3 +224,11 @@ models/*.keras
 
 # OS
 .DS_Store
+
+# Data / models
+data/*.csv
+models/*.h5
+models/*.keras
+
+# OS
+.DS_Store
